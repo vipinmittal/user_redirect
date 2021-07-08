@@ -22,7 +22,7 @@ function user_redirect_help($route_name, RouteMatchInterface $route_match) {
       $output .= '<li>' . t('Redirect user (to specific URL) on Log in') . '</li>';
       $output .= '<li>' . t('Redirect user (to specific URL) on Log out') . '</li>';
       $output .= '</ul><br>';
-      $output .= t('In case of multiple assigned roles to individual user, redirection priority is set in a way that you prefer user to reditrect particular path.<br>For example: You set roles ordering as:<br>+ Administrator<br>+ Architect<br>it means that when some user log in (or log out) module will pick up the Redirect URL path whose priority is highest.');
+      $output .= t('In case of multiple assigned roles to an individual user, priority decide user redirection.<br>For example: You set roles ordering as:<br>+ Administrator<br>+ Architect<br>it means that when some user log in/log out, module will pick up the Redirect URL path of Administrator.');
       return $output;
 
     default:

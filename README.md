@@ -1,5 +1,15 @@
 # user_redirect
 
+CONTENTS OF THIS FILE
+---------------------
+
+ * INTRODUCTION
+ * REQUIREMENTS
+ * DEPENDENCIES
+ * INSTALLATION
+ * CONFIGURATION
+ * MAINTAINERS
+
 ## INTRODUCTION
 This module is developed to redirect user after to redirect after login/logout.
 
@@ -7,7 +17,7 @@ This module is developed to redirect user after to redirect after login/logout.
 - Drupal 8 or Drupal 9
 
 ## DEPENDENCIES
-User Module
+User Core Module
 
 ## INSTALLATION
 Through Composer
