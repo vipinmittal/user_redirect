@@ -11,7 +11,7 @@ CONTENTS OF THIS FILE
  * MAINTAINERS
 
 ## INTRODUCTION
-This module is developed to redirect user after to redirect after login/logout.
+This module is developed to redirect user after login/logout.
 
 ## REQUIREMENTS
 - Drupal 8 or Drupal 9
