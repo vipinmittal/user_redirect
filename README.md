@@ -30,8 +30,8 @@ Through Manually
 2. Enable the 'User Redirect' module in 'Extend'. (/admin/modules)
 
 ## CONFIGURATION
-Set configuration at the link: <domain.com>/admin/people/users/redirect/form/settings
-Click "Save Configuration" button
+1. Set configuration at the link: <domain.com>/admin/people/users/redirect/form/settings
+2. Click "Save Configuration" button
 
 ## MAINTAINERS
 Original development: Vipin Mittal(https://www.drupal.org/u/vipinmittal18)
